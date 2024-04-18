@@ -1,0 +1,26 @@
+.container {
+  text-align: center;
+}
+
+.fetchButton {
+  background-color: #007bff;
+  color: #fff;
+  border: solid;
+  border-radius: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+.fetchButton:hover {
+  background-color: #0056b3;
+}
+
+.imageContainer {
+  margin-top: 20px;
+}
+
+.imageContainer img {
+  max-width: 100%;
+}
